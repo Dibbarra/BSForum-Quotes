@@ -33,4 +33,5 @@
 	"hint"		"#nro_hint_31"
 	"hint"		"#nro_hint_32"
 	"hint"		"#nro_hint_33"
+	"hint"		"#nro_hint_34"
 }
